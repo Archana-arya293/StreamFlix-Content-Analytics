@@ -125,18 +125,14 @@ StreamFlix-Content-Analytics/
 │   └── Phase4_Report_Archana_Arya_Final.pdf
 │
 └── README.md
-## Project Outcome
+Project Outcome
 
-The project demonstrates an end-to-end Data Analytics workflow from data quality assessment and exploratory analysis through KPI development and interactive Power BI reporting.
+This project demonstrates an end-to-end analytics workflow from raw data quality assessment and exploratory analysis through KPI development and interactive Power BI reporting.
 
-The final solution provides business-focused insights into:
+The final dashboard provides a business-focused view of subscriber engagement, content performance, customer experience, and catalogue investment.
 
-- Subscriber engagement and churn
-- Content consumption and performance
-- Subscriber and device behavior
-- Customer ratings and review sentiment
-- Originals vs. Licensed content
-- Catalogue investment and license expiries
+Author
 
-The resulting dashboard and management report provide a consolidated view of StreamFlix performance to support data-driven business analysis.
+Archana Arya
 
+Data Analytics | Power BI | SQL | Python | Excel
